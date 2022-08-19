@@ -1,0 +1,18 @@
+/* Decorations
+-------------------- */
+BODY {
+  padding: 20px;
+  background: white;
+  }
+.flex-container {
+  padding: 10px;
+  background: gold;
+  border-radius: 10px;
+  }
+.flex-item {
+  margin: 10px;
+  padding: 5px;
+  background: tomato;
+  border-radius: 5px;
+  border: 1px solid #FFF;
+  }
